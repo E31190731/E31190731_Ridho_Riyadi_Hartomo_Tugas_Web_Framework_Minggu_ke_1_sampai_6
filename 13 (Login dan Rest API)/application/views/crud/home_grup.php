@@ -15,7 +15,6 @@ $getGrup = $this->session->userdata('session_grup');
 		</thead>
 		<tfoot>
 		<tr><th>No</th>
-			<th>Username</th>
 			<th>Grup</th>
 			<th></th></tr>
 		</tfoot>
